@@ -1,7 +1,9 @@
 # spam-module-python2
 The basic example of the spam module for python2
 
-Created simply to understand the differences with python3 and how can be created a module for python2 **and** python3.
+Created to:
+ - Understand the differences within the python2 and python3 versions of the python-c api
+ - Check how to create a module compatible with python2 **and** python3.
 
 The related repos:  
 spam-module-python2: https://github.com/qlixed/spam-module-python2 - Python 2 only.  
